@@ -16,6 +16,12 @@ This project displays IPL match schedules, team line-ups, stadium details, Googl
 
 ---
 
+## 🌐 Live Demo
+
+🔗 https://vighneshmunde.github.io/IPL-Match-Information-Website/
+
+---
+
 ## 📌 Project Overview
 
 The IPL Match Information Website is a static web application designed to present information about Indian Premier League (IPL) matches.
